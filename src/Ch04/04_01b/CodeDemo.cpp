@@ -5,7 +5,9 @@
 #include <iostream>
 
 int main(){
-    
+    if (a > 1000){
+        std::cout << std::endl << std::endl;
+    } else
     std::cout << std::endl << std::endl;
     return (0);
 }
